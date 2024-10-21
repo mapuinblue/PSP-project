@@ -1,0 +1,72 @@
+
+
+.container {
+
+  display: flex;
+justify-content: space-around;
+margin: 20px;
+}
+
+
+.mainContainer {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #eee;
+  height: 100vh;
+}
+
+.sidebar a{
+  display: block;
+
+  padding: 25px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #222;
+}
+
+.sidebar a:hover {
+  background-color: #ccc;
+}
+
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+align-items: center;
+justify-content: center;
+}
+
+.btn-logout {
+  width: 60%;
+  background-color: #333;
+
+}
+
+.logout-btn:hover {
+  background-color: #555;
+}
+
+.profile {
+  margin-top: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.title-avatar {
+  font-size: 14px;
+  font-weight: bold;
+padding: 10px;
+  margin-bottom: 5px;
+}

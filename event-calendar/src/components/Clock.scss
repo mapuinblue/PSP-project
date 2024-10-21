@@ -1,0 +1,21 @@
+.box {
+    width: 600px;
+    height: 200px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+
+  .date {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+
+  .hour {
+    text-align: center;
+    font-size: 90px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
