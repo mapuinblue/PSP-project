@@ -4,8 +4,7 @@ Personalized event calendar through which users can keep their daily routines or
 # User Interface
 
 Overview of the index page and user interface.
-Figure 1
-First Mockup (by María Paula Gutiérrez Romero)
+![Image](https://github.com/user-attachments/assets/d25a3dca-8abf-4808-9fc1-2ba80fac68c3)
 
 
 # Problem Description
