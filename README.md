@@ -1,6 +1,13 @@
 # Eventique-Final-Project
 Personalized event calendar through which users can keep their daily routines or important events organized.
 
+# User Interface
+
+Overview of the index page and user interface.
+Figure 1
+First Mockup (by María Paula Gutiérrez Romero)
+
+
 # Problem Description
 In our daily lives, we constantly experience a sense of rush as more tasks, activities, and responsibilities accumulate each day. This often leads us to lose track of time, neglecting important obligations, which in many cases results in unpleasant consequences that could have been avoided with more efficient time management.
 
