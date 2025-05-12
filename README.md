@@ -7,6 +7,7 @@ Overview of the index page and user interface.
 
 ![Image](https://github.com/user-attachments/assets/d25a3dca-8abf-4808-9fc1-2ba80fac68c3)
 
+![Image](https://github.com/user-attachments/assets/efdc5d05-820c-4946-ac83-fca405a48d36)
 
 # Problem Description
 In our daily lives, we constantly experience a sense of rush as more tasks, activities, and responsibilities accumulate each day. This often leads us to lose track of time, neglecting important obligations, which in many cases results in unpleasant consequences that could have been avoided with more efficient time management.
